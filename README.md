@@ -4,17 +4,16 @@ Welcome to the SystemVerilog Learning Path! This guide is designed to help you m
 
 ## Learning Path Diagram 🗺️
 
-```mermaid
-flowchart 
-    A --> IDE 
-    B --> Fundamentals: Procedural Constructs
-    C --> Understanding SV Datatypes
-    D --> Verification Fundamentals
-    E --> Fundamentals of SystemVerilog OOP Constructs
-    F --> Randomization
-    G --> IPC
-    H --> Interface
-```
+## Contents
+## 1. IDE
+## 2. Fundamentals: Procedural Constructs
+## 3. Understanding SV Datatypes
+## 4. Verification Fundamentals
+## 5. Fundamentals of SystemVerilog OOP Constructs
+## 6. Randomization
+## 7. IPC
+## 8. Interface
+
 ---
 ## Section 1 : IDE 
 IDE used while learning System Verilog 
